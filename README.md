@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Shireen Al Sabea</h1>
+<h1 align="center">Shireen Al Sabea</h1>
 
 <p align="center">
-  <strong>Project Coordinator | MEAL | Humanitarian & Development Programs | Computer Science Background</strong>
+  <strong>Project Coordinator | MEAL | Humanitarian & Development Programs | AUB NGOi Certified in M&E</strong>
 </p>
 
 <p align="center">
@@ -14,61 +14,88 @@
 
 ---
 
-## About Me
+## About
 
-I work at the intersection of **project management, data, and people**, helping organizations deliver more meaningful work with stronger accountability.
+I work at the intersection of **project management, data, accountability, and people-centered impact**.
 
-I have 3+ years of experience across humanitarian NGOs and private sector operations, supporting the full project cycle from needs assessment and planning to field monitoring, donor reporting, and closeout.
+With 3+ years across humanitarian NGOs and private sector operations, I have supported full project cycles from needs assessments and logframe design to implementation tracking, field monitoring, donor reporting, and closeout.
 
-My background in **Computer Science** gives me a strong analytical foundation that I bring into humanitarian and development work, especially in MEAL systems, reporting, data organization, and digital tools for better decision-making.
+My background in **Computer Science** gives me a strong analytical foundation that I bring into MEAL systems, data organization, indicator tracking, reporting dashboards, ERP workflows, and evidence-based decision-making.
+
+Most recently, I completed the **MEAL for NGOs certification through the AUB NGO Initiative**, earning a perfect score across all required assessments.
 
 ---
 
-## What I Work On
+## Impact Snapshot
 
-- Project coordination for humanitarian and development programs
+| Area | Highlights |
+| --- | --- |
+| Humanitarian programming | Supported NGO programs and distributions reaching 2,000+ beneficiaries across Lebanon |
+| Project coordination | Coordinated planning, implementation, monitoring, reporting, and closeout activities |
+| MEAL and accountability | Supported logframes, field monitoring, post-distribution monitoring, reporting inputs, and community feedback |
+| Operations and HR | Coordinated HR processes for a 65-person team, including contracts, recruitment support, and staff follow-up |
+| Digital systems | Supported ERP implementation, data organization, payroll workflows, and internal process improvement |
+
+---
+
+## Focus Areas
+
+- Humanitarian and development project coordination
 - MEAL systems, logframes, monitoring tools, and accountability processes
-- Needs assessments, beneficiary follow-up, and post-distribution monitoring
-- Donor reporting, documentation, and evidence-based updates
-- HR, operations, logistics, procurement, and administrative coordination
-- ERP implementation and data organization for stronger internal systems
-- Responsible use of technology and AI for social impact
+- Needs assessments, field visits, beneficiary follow-up, and post-distribution monitoring
+- Donor reporting, proposal support, and evidence-based documentation
+- Data organization, indicator tracking, and reporting dashboards
+- ERP implementation and digital workflow improvement
+- Responsible technology and AI for humanitarian and social-impact work
 
 ---
 
-## Experience Highlights
+## Experience
 
-- Coordinated NGO project activities across planning, implementation, monitoring, reporting, and closeout
-- Supported programs and distributions reaching **2,000+ beneficiaries** across Lebanon
-- Managed HR coordination for a team of **65 employees**
-- Supported MEAL processes, field follow-up, reporting inputs, and accountability-focused documentation
-- Contributed to technical and financial proposals aligned with donor priorities
+### Alreaaya
+
+**Human Resources Coordinator & Projects Coordinator**  
+Aug 2024 - Nov 2025
+
+- Coordinated project activities across planning, implementation, monitoring, reporting, and closeout
+- Supported technical and financial project proposals aligned with donor priorities and organizational needs
+- Oversaw MEAL-related processes, implementation tracking, field follow-up, reporting inputs, and accountability-focused documentation
+- Managed HR coordination for a 65-person team, including recruitment support, contracts, staff follow-up, and capacity-building processes
 - Supported ERP integration to improve HR workflows, payroll organization, and data-driven decision-making
+
+**Social Affairs Officer, Orphans Program Department**  
+Jul 2023 - Aug 2024
+
+- Conducted field visits across Lebanon to assess beneficiary needs, follow up on cases, and monitor program impact
+- Supported donor communication and reporting through clear updates on activities, needs, and results
+- Coordinated Ramadan, Qurbani, winterization, and food parcel distributions reaching 2,000+ beneficiaries
+- Worked with field teams to plan interventions, collect beneficiary feedback, and improve program accountability
+- Maintained beneficiary records and supported needs assessments for better project planning
 
 ---
 
 ## Education & Certification
 
 **Bachelor's Degree in Computer Science**  
-Beirut Arab University
+Beirut Arab University, 2019-2023
 
-**MEAL for NGOs Certification**  
-American University of Beirut NGO Initiative  
+**MEAL for NGOs**  
+American University of Beirut NGO Initiative, issued Jun 2026  
 Completed with a perfect score across all required assessments
 
 ---
 
 ## Current Direction
 
-I am growing in the space where:
+I want to keep growing where:
 
 ```text
-Project management + MEAL + data + technology + human impact
+Project management + MEAL + data + accountability + technology + human impact
 ```
 
 come together.
 
-I am especially interested in responsible AI, digital tools, and data-driven approaches that help humanitarian and development organizations listen better, improve faster, and explain decisions more transparently.
+I am especially interested in work that helps organizations listen better, improve faster, document results clearly, and use data or digital tools responsibly to serve people more effectively.
 
 ---
 
@@ -78,37 +105,25 @@ I am especially interested in responsible AI, digital tools, and data-driven app
 
 A responsible AI portfolio project exploring how humanitarian teams could use structured data, synthetic community feedback, transparent scoring, and decision-support briefs to support prioritization conversations.
 
-Repository:
-
-```text
-https://github.com/Shireenelsabea/shireen-sudan-humanitarian-ai-insights
-```
-
-Project hub:
-
-```text
-https://shireenelsabea.github.io/shireen-sudan-humanitarian-ai-insights/
-```
+- Repository: https://github.com/Shireenelsabea/shireen-sudan-humanitarian-ai-insights
+- Project hub: https://shireenelsabea.github.io/shireen-sudan-humanitarian-ai-insights/
 
 ---
 
 ## Skills
 
-**Humanitarian & Development**
+**Humanitarian & Development**  
+Project coordination, MEAL, needs assessments, logframes, donor reporting, field monitoring, beneficiary follow-up, community feedback, accountability, distributions, program documentation.
 
-MEAL, project coordination, needs assessments, logframes, donor reporting, field monitoring, beneficiary follow-up, accountability, community feedback, distributions, program documentation.
-
-**Data & Technology**
-
+**Data & Technology**  
 Data organization, indicator tracking, reporting dashboards, ERP support, Excel/Sheets, Python basics, AI-assisted analysis, digital transformation, evidence-based reporting.
 
-**Operations**
-
-HR coordination, procurement support, logistics coordination, administration, team follow-up, workflow improvement, documentation, stakeholder communication.
+**Operations**  
+HR coordination, procurement support, logistics coordination, administration, team follow-up, workflow improvement, stakeholder communication.
 
 ---
 
-## Let's Connect
+## Connect
 
 I am open to collaboration with NGOs, humanitarian data teams, social-impact organizations, and technology-for-development initiatives.
 
